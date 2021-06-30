@@ -1,5 +1,8 @@
 # modern_python_devops (WIP)
+
 A python tutorial for various devops tools. 
+
+ps: before reading, run the last cell to add some CSS formatting. 
 
 ### References: 
 - https://pypi.org/project/tyrannosaurus/
@@ -8,4 +11,4 @@ A python tutorial for various devops tools.
 - https://betterprogramming.pub/understanding-best-practice-python-tooling-by-comparing-popular-project-templates-6eba49229106?source=search_post---------8
 
 
-TODO: It needs updating
+TODO: Update tutorial
