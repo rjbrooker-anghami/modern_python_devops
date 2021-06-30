@@ -2,7 +2,7 @@
 
 A python tutorial for various devops tools. 
 
-**ps: before reading, run the last cell to add some CSS formatting. **
+**ps: before reading, run the last cell to add some CSS formatting.**
 
 ### References: 
 - https://pypi.org/project/tyrannosaurus/
